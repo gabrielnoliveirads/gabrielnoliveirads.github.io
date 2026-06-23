@@ -1,15 +1,12 @@
 ---
-
 title: "Simulador de Fila Bancária"
 date: 2026-06-23
 excerpt: "Simulação de atendimento bancário com regras de priorização, controle de tempo de espera e desistência automática de clientes, desenvolvida em Python."
 github: "https://github.com/gabrielnoliveirads/Fila"
 tools:
-
-* Python
-* Estruturas de Dados
-* Algoritmos
-
+  - Python
+  - Estruturas de Dados
+  - Algoritmos
 ---
 
 # Simulador de Fila Bancária
