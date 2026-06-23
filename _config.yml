@@ -13,13 +13,13 @@ title                    : "Gabriel Nogueira Oliveira"
 title_separator          : "|"
 subtitle                 : "Portfólio de Ciência de Dados"
 name                     : "Gabriel Nogueira Oliveira"
-description              : "Portfólio de projetos em Ciência de Dados, Machine Learning e Analytics."
+description              : "Portfólio de projetos em Ciência de Dados."
 url                      : "https://gabrielnoliveirads.github.io"
 baseurl                  : ""
 repository               : "gabrielnoliveirads/gabrielnoliveirads.github.io"
 teaser                   : 
 logo                     : 
-masthead_title           : "Gabriel Nogueira"
+masthead_title           : "Gabriel Oliveira"
 breadcrumbs              : false
 words_per_minute         : 200
 enable_copy_code_button  : true # Ativei o botão de copiar código, excelente para portfólios tech
@@ -55,9 +55,9 @@ analytics:
 author:
   name             : "Gabriel Nogueira Oliveira"
   avatar           : # Caminho para sua foto, ex: "/assets/images/perfil.jpg"
-  bio              : "Graduando em Ciência de Dados na Universidade Federal de Viçosa (UFV). Focado em análise de dados, machine learning e desenvolvimento com Python, R e Java no ecossistema Linux."
+  bio              : "Graduando em Ciência de Dados na Universidade Federal de Viçosa (UFV)."
   location         : "Viçosa, MG - Brasil"
-  email            :
+  email            : "gabriel.n.oliveira.ds@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -189,3 +189,8 @@ defaults:
       comments: false
       share: true
       related: true
+      
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
